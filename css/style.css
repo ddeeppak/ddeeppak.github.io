@@ -87,6 +87,15 @@ a{
   font-weight:lighter;
   margin: 5px;
 }
+.txt8
+{
+  color: #a71fc9;
+  font-size: 10px;
+ 
+  font-family: 'Courier New', Courier, monospace;
+  font-weight:bold;
+  margin: 5px;
+}
 .cmp{
   margin-top: auto;
   margin-bottom: auto;
